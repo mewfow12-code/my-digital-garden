@@ -3,6 +3,7 @@
 ---
 
 **Sơ đồ lập luận lâm sàng:** [[40_MOCS/sơ đồ lập luận lâm sàng.canvas\|sơ đồ lập luận lâm sàng.canvas]]
+![image.png](https://pub-0f3d5db202bd49b5be3e8ab177fb5e6b.r2.dev/20260525183254978.png)
 
 ---
 ### Biện luận các triệu chứng
