@@ -3,8 +3,5 @@
 ---
 
 
-huy
-
-$\text{CH}_3-\text{CH}_3$ hay $\stackrel{t^\circ}{\rightarrow}$
 
 
