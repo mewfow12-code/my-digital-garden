@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-book/xay-dung-chan-doan-phan-biet/","noteIcon":"","created":"2026-05-25T17:53:44.021+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/30-book/xay-dung-chan-doan-phan-biet/","tags":["11_Tiếp_cận_bệnh_nhân"],"created":"2026-05-25T17:53:44.021+07:00","dg-note-properties":{"tags":["11_Tiếp_cận_bệnh_nhân"]}}
 ---
 
 Có 4 cách tiếp cận để tổ chức và sắp xếp thứ tự ưu tiên cho chẩn đoán phân biệt đối với một vấn đề lâm sàng:

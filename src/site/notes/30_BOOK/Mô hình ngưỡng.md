@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-book/mo-hinh-nguong/","noteIcon":"","created":"2026-05-25T17:56:20.198+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/30-book/mo-hinh-nguong/","tags":["11_Tiếp_cận_bệnh_nhân"],"created":"2026-05-25T17:56:20.198+07:00","dg-note-properties":{"tags":["11_Tiếp_cận_bệnh_nhân"]}}
 ---
 
 #### Khái niệm
