@@ -4,7 +4,7 @@
 
 ![[40_MOCS/Sơ đồ tiếp cận tiểu máu.canvas\|Sơ đồ tiếp cận tiểu máu.canvas]]
 
-Tiểu máu là đặc điểm triệu chứng điển hình của [[Hội chứng viêm thận\|Hội chứng viêm thận]] (nephritic symptom). Tuy nhiên, tiểu máu có thể thỉnh thoảng bắt gặp ở người khỏe mạnh (khoảng 12.500 hồng cầu/ml). Tiểu máu thường kèm theo tiểu đạm khi có tổn thương tại màng lọc cầu thận.  
+Tiểu máu là đặc điểm triệu chứng điển hình của [[20_JOURNAL/14/Hội chứng viêm thận\|Hội chứng viêm thận]] (nephritic symptom). Tuy nhiên, tiểu máu có thể thỉnh thoảng bắt gặp ở người khỏe mạnh (khoảng 12.500 hồng cầu/ml). Tiểu máu thường kèm theo tiểu đạm khi có tổn thương tại màng lọc cầu thận.  
 
 Khi xét nghiệm bằng dipstick cho kết quả dương tính từ 2/3 lần trở lên (loại trừ trường hợp do kinh nguyệt, UIT) cho thấy liên hệ bệnh cảnh chảy máu đường tiết niệu. Trong trường hợp, nhiễm trùng, kinh nguyệt, haemoglobinuria và myoglobinuria có thể được loại trừ (bảng dưới). 
 

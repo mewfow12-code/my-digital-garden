@@ -15,7 +15,7 @@ views:
         - file.tags.contains("BH_tiêu_hóa")
     order:
       - file.name
-      - dg-home
+      - dg-publish
       - tags
       - file.mtime
       - BC
@@ -40,11 +40,14 @@ views:
         - file.tags.contains("VS_tiêu_hóa")
     order:
       - file.name
-      - dg-home
+      - dg-publish
       - tags
       - file.mtime
       - BC
       - State
+    sort:
+      - property: dg-home
+        direction: ASC
     columnSize:
       file.name: 131
       note.tags: 144
@@ -57,6 +60,9 @@ views:
 ### Hệ Tiết niệu
 #### **Bệnh học**
 
+![[Sơ đồ bệnh học tiết niệu.canvas\|Sơ đồ bệnh học tiết niệu.canvas]]
+
+
 ```base
 views:
   - type: table
@@ -64,6 +70,12 @@ views:
     filters:
       and:
         - file.tags.contains("BH_tiết_niệu")
+    order:
+      - file.name
+      - dg-publish
+      - file.tags
+    columnSize:
+      note.dg-publish: 109
 
 ```
 
