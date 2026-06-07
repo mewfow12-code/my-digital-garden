@@ -58,6 +58,16 @@ views:
 
 
 ### Hệ Tiết niệu
+#### **Khái niệm chung**
+
+##### Nhiễm Khuẩn đường tiết niệu
+**UTIs tái phát** thường được định nghĩa là có từ 3 đợt nhiễm trùng trở lên trong khoảng thời gian 12 tháng, hoặc từ 2 đợt nhiễm trùng trở lên trong khoảng thời gian 6 tháng. 
+
+**UTI không phức tạp** là tình trạng xảy ra ở một phụ nữ khỏe mạnh, không mang thai, có đường tiết niệu sinh dục bình thường và không có tiền sử can thiệp thiết bị gần đây, bao gồm cả đặt ống thông bàng quang. 
+
+Cấy nước tiểu là xét nghiệm chẩn đoán tiêu chuẩn vàng cho tất cả các UTIs
+
+
 #### **Bệnh học**
 
 ![[Sơ đồ bệnh học tiết niệu.canvas\|Sơ đồ bệnh học tiết niệu.canvas]]
@@ -81,3 +91,4 @@ views:
 
 
 
+### Nhiễm khuẩn đường tiết niệu
