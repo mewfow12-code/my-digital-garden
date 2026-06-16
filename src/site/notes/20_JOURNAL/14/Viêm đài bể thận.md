@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/20-journal/14/viem-dai-be-than/","tags":["BH_tiết_niệu","nhiễm_khuẩn_đường_tiết_niệu"],"created":"2026-06-04T13:02:04.520+07:00","dg-note-properties":{"tags":["BH_tiết_niệu","nhiễm_khuẩn_đường_tiết_niệu"],"State":"[[Viêm bàng quang và Viêm đài bể thận = Chẩn đoán, Điều trị và Phòng ngừa]]"}}
+{"dg-publish":true,"permalink":"/20-journal/14/viem-dai-be-than/","tags":["BH_tiết_niệu","nhiễm_khuẩn_đường_tiết_niệu"],"created":"2026-06-04T13:02:04.520+07:00","dg-note-properties":{"tags":["BH_tiết_niệu","nhiễm_khuẩn_đường_tiết_niệu"],"State":"[[Viêm bàng quang và Viêm đài bể thận = Chẩn đoán, Điều trị và Phòng ngừa]]","Ghi chú":"cần sửa đổi lại"}}
 ---
 
-### Biểu hiện lâm sàng ![[Sơ đồ điều trị viêm đài bể thận.canvas\|Sơ đồ điều trị viêm đài bể thận.canvas]]
+### Biểu hiện lâm sàng ![[40_MOCS/Sơ đồ điều trị viêm đài bể thận.canvas\|Sơ đồ điều trị viêm đài bể thận.canvas]]
 
 ### Giải phẫu bệnh 
 - **Cấp tính:** Tổn thương vùng vỏ thận nhưng không ảnh hưởng đến cầu thận; có sự thâm nhiễm bạch cầu trung tính và hình thành ổ áp-xe trong mô kẽ thận; các ổ áp-xe này có thể vỡ ra và đưa bạch cầu vào trong lòng ống thận.

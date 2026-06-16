@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-journal/14/hoi-chung-viem-than/","tags":["BH_tiết_niệu"],"created":"2026-05-31T12:22:47.922+07:00","dg-note-properties":{"tags":["BH_tiết_niệu"]}}
+{"dg-publish":true,"permalink":"/20-journal/14/hoi-chung-viem-than/","tags":["BH_tiết_niệu"],"created":"2026-05-31T12:22:47.922+07:00","dg-note-properties":{"tags":["BH_tiết_niệu"],"State":["[[Bệnh lý cầu thận]]","[[Bệnh lý thận kẽ]]"]}}
 ---
 
 ### Khái niệm chung
@@ -36,17 +36,17 @@
 
 ### Can thiệp trong hội chứng viêm thận
 
-| **Nguyên nhân**                                           | **Các xét nghiệm/thăm dò cần làm**                                                                                       |     |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --- |
-| **Viêm cầu thận tiến triển nhanh (RPGN)**                 |                                                                                                                          |     |
-| * Viêm cầu thận hậu nhiễm trùng*                          | ASOT, C3, C4                                                                                                             |     |
-| * Bệnh kháng thể kháng màng đáy cầu thận (Bệnh anti-GBM)* | Kháng thể kháng màng đáy cầu thận (Anti-GBM antibody)                                                                    |     |
-| * Viêm mạch máu nhỏ*                                      | p-ANCA, c-ANCA                                                                                                           |     |
-| * Viêm thận Lupus*                                        | ANA, dsDNA, C3, C4                                                                                                       |     |
-| **Biểu hiện viêm cầu thận thể nhẹ**                       |                                                                                                                          |     |
-| * Bệnh thận IgA *                                         | IgA huyết thanh (tăng đa dòng ở 50% bệnh nhân)                                                                           |     |
-| * Viêm cầu thận tăng sinh vùng gian mạch *                | C3, C4, huyết thanh chẩn đoán viêm gan B, C + HIV, ANA, dsDNA, các globulin miễn dịch, điện di protein huyết tương (PPE) |     |
-| * Hội chứng Alport*                                       | Sàng lọc di truyền, đo thính lực                                                                                         |     |
+| **Nguyên nhân**                                           | **Các xét nghiệm/thăm dò cần làm**                                                                                       | Link |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---- |
+| **Viêm cầu thận tiến triển nhanh (RPGN)**                 |                                                                                                                          |      |
+| * Viêm cầu thận hậu nhiễm trùng*                          | ASOT, C3, C4                                                                                                             |      |
+| * Bệnh kháng thể kháng màng đáy cầu thận (Bệnh anti-GBM)* | Kháng thể kháng màng đáy cầu thận (Anti-GBM antibody)                                                                    |      |
+| * Viêm mạch máu nhỏ*                                      | p-ANCA, c-ANCA                                                                                                           |      |
+| * Viêm thận Lupus*                                        | ANA, dsDNA, C3, C4                                                                                                       |      |
+| **Biểu hiện viêm cầu thận thể nhẹ**                       |                                                                                                                          |      |
+| * Bệnh thận IgA *                                         | IgA huyết thanh (tăng đa dòng ở 50% bệnh nhân)                                                                           |      |
+| * Viêm cầu thận tăng sinh vùng gian mạch *                | C3, C4, huyết thanh chẩn đoán viêm gan B, C + HIV, ANA, dsDNA, các globulin miễn dịch, điện di protein huyết tương (PPE) |      |
+| * Hội chứng Alport*                                       | Sàng lọc di truyền, đo thính lực                                                                                         |      |
 
 > [!Ghi chú] 
 > Không phải là viêm cầu thận nhưng có thể biểu hiện tương tự với các triệu chứng như tiểu máu, protein niệu mức độ thay đổi, tăng huyết áp và chức năng thận suy giảm từ từ.

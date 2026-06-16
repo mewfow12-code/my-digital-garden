@@ -5,7 +5,7 @@
 ### Khái niệm chung
 > Hội chứng thận hư là hội chứng được đặc trưng bởi tiểu niệu lượng lớn (>3.5 g/24 giờ/1,73 m2), giảm albumin trong máu và phù. 
 
-![[sơ đồ Bệnh học hội chứng thận hư.canvas\|sơ đồ Bệnh học hội chứng thận hư.canvas]]
+![[40_MOCS/sơ đồ Bệnh học hội chứng thận hư.canvas\|sơ đồ Bệnh học hội chứng thận hư.canvas]]
 
 ### Tiêu chuẩn chẩn đoán thận hư
 > - Protein niệu > 3,5 g/24 giờ/1,73m2 diện tích bề mặt cơ thể.
